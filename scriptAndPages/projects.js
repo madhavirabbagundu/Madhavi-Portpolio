@@ -77,7 +77,7 @@ projectsSection.innerHTML = `
                     <p>Developed a clone of <a href="https://trivagoclone-project.netlify.app/"
                             style="color: #FFF; text-decoration: underline;" target="_blank">Apollo247</a> website.</p>
                     <br >
-                    <p>it is a team project, we are four developers to build this project in 5 days . websites which we includes the features Login page, Home page, hotel page and gallery page.</p>
+                    <p>it is a team project, we are four developers to build this project in 5 days . websites which we includes the features Login page, Home page, Navbar,footer,cart page and gallery page.</p>
                     <br>
                     <u style="text-decoration: underline;">TechStack :- </u>
                     <br>
