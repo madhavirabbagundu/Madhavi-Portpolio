@@ -93,7 +93,7 @@ section .title::after {
 }
 .navbar.sticky {
   padding: 15px 0;
-  background: green;
+  background: orangered;
 }
 .navbar .max-width {
   display: flex;
@@ -142,7 +142,7 @@ section .title::after {
   position: fixed;
   height: 45px;
   width: 42px;
-  background: green;
+  background: orangered;
   right: 30px;
   bottom: 10px;
   text-align: center;
