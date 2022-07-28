@@ -1,3 +1,5 @@
+//this is my about page
+
 let about = document.getElementById("about")
 about.innerHTML = `
 <section class="about" id="about">
@@ -5,7 +7,7 @@ about.innerHTML = `
             <h2 class="title">About me</h2>
             <div class="about-content">
                 <div class="column left">
-                    <img src="images/madhaviphoto2 (2).jpg" alt=""
+                    <img src = "images/rafiMadhavi_photo.jpg" alt = ""
                         style="border-radius:250px;background-color: rgba(146, 139, 139, 0.068);">
                 </div>
                 <div class="column right">
