@@ -29,8 +29,15 @@ skills.innerHTML = `
         <i class="fab fa-react"></i>
         <p>Redux</p>
     </div>
-   
-
+    <div>
+    <i class="fab fa-node-js"></i>
+    <p>ExpressJs</p>
+</div>
+<div>
+<i class="fas fa-database"></i>
+<p>MongoDb</p>
+</div>
+</div>
 </div>
 </div>
 `;
