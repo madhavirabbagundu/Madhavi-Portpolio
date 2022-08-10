@@ -75,7 +75,7 @@ projectsSection.innerHTML = `
                 </div>
                  <div class="projectDescription">
                     <p>Developed a clone of <a href="https://trivagoclone-project.netlify.app/"
-                            style="color: #FFF; text-decoration: underline;" target="_blank">Apollo247</a> website.</p>
+                            style="color: #FFF; text-decoration: underline;" target="_blank">Trivago</a> website.</p>
                     <br >
                     <p>it is a team project, we are four developers to build this project in 5 days . websites which we includes the features Login page, Home page, Navbar,footer,cart page and gallery page.</p>
                     <br>
@@ -99,6 +99,43 @@ projectsSection.innerHTML = `
         </div>
         
            
+        <div class="eachProjectDiv ">
+        <p class="ProjectName ">Nykaa</p>
+        <div class="ProjectContainer">
+            <div class="ProjectImage">
+                <img src="./images/Screenshot (475).png" alt="" />
+            </div>
+             <div class="projectDescription">
+                <p>Developed a clone of <a href="https://nyka-clone-by-stmps-team.netlify.app/"
+                        style="color: #FFF; text-decoration: underline;" target="_blank">Nykaa</a> website.</p>
+                <br >
+                <p>it is a team project, we are five developers to build this project in 5 days . websites which we includes the features Login page, Home page, Navbar,footer,product page and payment .</p>
+                <br>
+                <u style="text-decoration: underline;">TechStack :- </u>
+                <br>
+                <div class="techStackProject">
+                    <p><i class="fab fa-react"></i> React</p>
+                    <p><i class="fab fa-node-js"></i>ExpressJs</p>
+                    <p>  <i class="fab fa-node-js"></i>
+                    </i>NodeJs</p>
 
+                    <p> <i class="fas fa-database"></i>
+                   MongoDb</p>
+
+
+                    
+                    
+                </div>
+                <div class="ProjectLinks">
+                    <a href="https://github.com/madhavirabbagundu/Nykaa-Clone"
+                        target="_blank"><button>
+                            Github</button></a>
+                    <a href="https://nyka-clone-by-stmps-team.netlify.app/" target="_blank"><button>Demo</button></a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    
 
 `;
