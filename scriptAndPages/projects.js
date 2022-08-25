@@ -40,7 +40,7 @@ projectsSection.innerHTML = `
                         <img src="./images/project_image.png" alt="" />
                     </div>
                      <div class="projectDescription">
-                        <p>Developed a clone of <a href="https://project-madhavi.netlify.app"
+                        <p>Developed a clone of <a href="https://apolloclone.netlify.app/index.html"
                                 style="color: #FFF; text-decoration: underline;" target="_blank">Apollo247</a> website.</p>
                         <br >
                         <p>it is a team project, we are four developers to build this project in 7 days . websites which we includes the features Login page, Cart page, Appointment page, blog page and doctors page.</p>
@@ -57,7 +57,7 @@ projectsSection.innerHTML = `
                             <a href="https://github.com/madhavirabbagundu/apolloclone-project"
                                 target="_blank"><button>
                                     Github</button></a>
-                            <a href="https://project-madhavi.netlify.app" target="_blank"><button>Demo</button></a>
+                            <a href="https://apolloclone.netlify.app/index.html" target="_blank"><button>Demo</button></a>
 
                         </div>
                     </div>
